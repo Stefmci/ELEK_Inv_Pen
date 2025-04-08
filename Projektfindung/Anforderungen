@@ -1,0 +1,24 @@
+Anforderungen an das System
+
+- das System ist mobil, somit soll ein Akku zur Energieversorgung genutzt werden
+- die Elektronik zum Laden des Akkus soll im System integriert sein
+- das System soll sich aktiv in der instabilen Ruhelage einpendeln und kleine Störungen ausregeln können
+
+- der Mikrokontroller soll die Matlab Simulink C-Code Generierung unterstützen
+- während dem Betrieb sollen Sensordaten in echtzeit per Wifi ausgelesen werden
+
+
+- der Antrieb soll mittels Bürsten-Gleichstrommotoren implementiert werden
+- die Oberseite des Roboters soll Möglichkeiten zur Erweiterung mit Sensoren bieten
+- Akku soll einfach Austauschbar sein, um längere Präsentationen zu ermöglichen
+
+
+optionale Anforderungen: 
+
+- die Position des Akkus kann variiert werden, um den Schwerpunkt des System variabel zu gestalten
+
+
+
+------------------- Option 1 --------------------------------------------------
+
+
