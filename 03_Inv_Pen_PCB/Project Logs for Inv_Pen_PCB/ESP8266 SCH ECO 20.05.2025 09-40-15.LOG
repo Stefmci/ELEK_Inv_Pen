@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=* Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1
+Change Pin Designator/Name:  Old Designator=R?-1 Old Name=1 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=U?-2 Old Name=LNA New Designator =VDD3P3 New Name=3
+Change Pin Designator/Name:  Old Designator=U?-3 Old Name=VDD3P3 New Designator =LNA New Name=2
+Change Pin Designator/Name:  Old Designator=U?-14 Old Name=GPIO2 New Designator =VDD3P3 New Name=4
+Change Pin Designator/Name:  Old Designator=U?-21 Old Name=SDIO_CLK New Designator =GPIO2 New Name=14

@@ -1,0 +1,137 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-1
+Added Component: Designator=*(PCBComponent_1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(FP-SML-LX0404SIUPGUSB-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0404"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0404"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "2mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.73V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "20mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "30mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "2mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "465nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC0402(1005)_L
+Add Component: Footprint Not Found RESC0402(1005)_L
+Added Component: Designator=R?(RESC1005X40X25LL05T05)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C84.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "04/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Basic Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1 x 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ERJ-2GEJ221X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.5 mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC0402(1005)_L
+Add Component: Footprint Not Found RESC0603(1608)_L
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=L?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-4
+Added Pin To Net: NetName=+5 Pin=D?-1
+Added Net: Name=+5
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_3" already exists
+Added Pin To Net: NetName=NetD?_4 Pin=D?-4
+Added Pin To Net: NetName=NetD?_4 Pin=R?-1
+Added Net: Name=NetD?_4
+Add Net: Net with name "NetJ?_1" already exists
+Add Net: Net with name "NetJ?_2" already exists
+Add Net: Net with name "NetJ?_3" already exists
+Add Net: Net with name "NetJ?_4" already exists
+Add Net: Net with name "NetJ?_4" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Net: Name=NetU?_3
+Added Member To Class: ClassName=ESP8266 Member=Component * RF_ESP8266
+Added Member To Class: ClassName=ESP8266 Member=Component C? C0402C105K8PACTU
+Added Member To Class: ClassName=ESP8266 Member=Component C? GRM188R60J106ME47D
+Added Member To Class: ClassName=ESP8266 Member=Component C? C0603C100C5GACTU
+Added Member To Class: ClassName=ESP8266 Member=Component C? GRM155R71C104KA88D
+Added Member To Class: ClassName=ESP8266 Member=Component C? C0603C100C5GACTU
+Added Member To Class: ClassName=ESP8266 Member=Component C? GRM155R71C104KA88D
+Added Member To Class: ClassName=ESP8266 Member=Component C? GRM155R71C104KA88D
+Added Member To Class: ClassName=ESP8266 Member=Component D? 150353M153300
+Added Member To Class: ClassName=ESP8266 Member=Component J? 90120-0125
+Added Member To Class: ClassName=ESP8266 Member=Component J? 90120-0125
+Added Member To Class: ClassName=ESP8266 Member=Component L? W25Q128JVSIQ_TR
+Added Member To Class: ClassName=ESP8266 Member=Component Q? MMBT2222A-7-F
+Added Member To Class: ClassName=ESP8266 Member=Component Q? MMBT2222A-7-F
+Added Member To Class: ClassName=ESP8266 Member=Component R? RC0805FR-0710KL
+Added Member To Class: ClassName=ESP8266 Member=Component R? Resistor 100R +/-1 % 0402 63 mW
+Added Member To Class: ClassName=ESP8266 Member=Component R? ERT-J0ET102J
+Added Member To Class: ClassName=ESP8266 Member=Component R? ERJ-2GEJ221X
+Added Member To Class: ClassName=ESP8266 Member=Component R? ERT-J0ET102J
+Added Member To Class: ClassName=ESP8266 Member=Component R? RC0805FR-0710KL
+Added Member To Class: ClassName=ESP8266 Member=Component R? Resistor 10R  +/-1 % 0402 63 mW
+Added Member To Class: ClassName=ESP8266 Member=Component R? ERJ6ENF2200V
+Added Member To Class: ClassName=ESP8266 Member=Component R? ERJ6ENF1202V
+Added Member To Class: ClassName=ESP8266 Member=Component R? RC0805FR-0710KL
+Added Member To Class: ClassName=ESP8266 Member=Component R? ERJ-2RKF1000X
+Added Member To Class: ClassName=ESP8266 Member=Component R? RC0805FR-0710KL
+Added Member To Class: ClassName=ESP8266 Member=Component R? RC0805FR-0710KL
+Added Member To Class: ClassName=ESP8266 Member=Component R? ERT-J0ET102J
+Added Member To Class: ClassName=ESP8266 Member=Component R? ERJ-2RKF4990X
+Added Member To Class: ClassName=ESP8266 Member=Component R? Resistor 120R +/-5 % 0603 0.1 W
+Added Member To Class: ClassName=ESP8266 Member=Component R? ERJ-3EKF2000V
+Added Rule: Name=Schematic Supply Nets_2
