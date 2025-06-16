@@ -1,0 +1,1 @@
+- Spannugnsteiler von den Encoders zum STM32 sind falsch. die 3.2V liegen nicht am STM an, sondern nur 1.8. hier müssen andere Widerstände eingelötet werden
